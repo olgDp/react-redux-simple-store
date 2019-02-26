@@ -1,0 +1,25 @@
+.BookListItem {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-column-gap: 24px;
+}
+
+.book-cover {
+    margin-bottom: 16px;
+}
+
+
+
+
+.book-title {
+    font-size: 1.5rem;
+}
+
+.book-author {
+    margin-bottom: 8px;
+}
+
+.book-price {
+    font-size: 1.5rem;
+    margin-bottom: 24px;
+}
